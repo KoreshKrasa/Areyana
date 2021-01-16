@@ -13,9 +13,6 @@
 <b>Nationality:</b> Retarded League Of Legends Player
 </li>
 <li>
-<b>Gender:</b> he/his/Male
-</li>
-<li>
 <b>Hobbys:</b> Programming, Writing, Music
 </li>
  <li>
@@ -35,8 +32,8 @@
 <div>
 <p align="center"> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
   <br><br>
-  <p>
-  I'm fond of writing tech articles on my <span><a href="https://medium.com/@areyana">Medium</a></span> channel. I'm also good at League of Legends, which I play most of my free time.
+  <p style="display: inline-block">
+  I'm fond of writing tech articles on my <a href="https://medium.com/@areyana">Medium</a> channel. I'm also good at League of Legends, which I play most of my free time.
   </p>
 </p>
 <br>
